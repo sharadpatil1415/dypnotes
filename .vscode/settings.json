@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "login page ",
+            "database": "dyp_notes",
+            "username": "dyp_notes"
+        }
+    ],
+    "liveServer.settings.port": 5501
+}
